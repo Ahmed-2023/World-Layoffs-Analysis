@@ -3,10 +3,10 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 
 # Data Cleaning (MySQL)
 
--Removed duplicates and filtered irrelevant rows
+1.Removed duplicates and filtered irrelevant rows
 
--Standardized date formats
+2.Standardized date formats
 
--Handled nulls and blank values
+3.Handled nulls and blank values
 
--Dropped unused columns and rows
+4.Dropped unused columns and rows
