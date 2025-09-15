@@ -29,4 +29,7 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 2.Built several DAX measures such as:
 (Total Layoffs,Total Companies,Average Layoff Percentage,Total Funding)
 
+## 📈 Dashboards (Power BI)
+###Page 1: Layoffs Overview
+
 3.Established relationships between tables for accurate time-intelligence analysis
