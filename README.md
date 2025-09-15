@@ -32,7 +32,8 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 3.Established relationships between tables for accurate time-intelligence analysis
 
 
-## 📈 Dashboards (Power BI)
+## 📈 Dashboards (Power BI) 
+<a href='https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Dashboard.pbix'> Dashboard intractive file
 ### Page 1: Layoffs Overview
 <img width="1717" height="728" alt="Dashboard Page1 screenshot" src="https://github.com/user-attachments/assets/84ee6a3b-504f-4abf-bfc6-af4592ac8ca0" />
 
