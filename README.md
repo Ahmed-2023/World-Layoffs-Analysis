@@ -35,3 +35,14 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 ## 📈 Dashboards (Power BI)
 ### Page 1: Layoffs Overview
 <img width="1717" height="728" alt="Dashboard Page1 screenshot" src="https://github.com/user-attachments/assets/84ee6a3b-504f-4abf-bfc6-af4592ac8ca0" />
+
+###Page 2: Layoff Percentage Analysis
+<img width="1479" height="725" alt="Dashboard Page 2 screenshot" src="https://github.com/user-attachments/assets/29e35e7e-18ba-4207-9554-47d260d0f513" />
+
+## 🛠 Tools Used
+1.MySQL
+
+2.Power BI
+
+3.DAX
+
