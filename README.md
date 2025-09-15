@@ -1,7 +1,7 @@
 # 🌍 Global Layoffs Analysis
 This project analyzes global layoffs data using MySQL for data cleaning and exploratory data analysis (EDA), and Power BI (with DAX) for building an interactive data model and dashboards.
 
-## Data Cleaning (MySQL)
+## Data Cleaning (Using MySQL)
 
 1.Removed duplicates and filtered irrelevant rows
 
