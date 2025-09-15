@@ -11,7 +11,7 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 
 4.Dropped unused columns and rows
 
--<a href="https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Data%20Cleaning.sql">Data Cleaning File
+-<a href="https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Data%20Cleaning.sql">Data Cleaning File code
 
 ## 📊 Exploratory Data Analysis ( using MySQL)
 
@@ -19,5 +19,5 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 
 2.Explored layoffs distribution across industries, countries, and funding stages
 
--<a href='https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Exploratory%20Data%20Analysis.sql'>Exploratory Data Analysis  File
+-<a href='https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Exploratory%20Data%20Analysis.sql'>Exploratory Data Analysis  File code
 
