@@ -10,3 +10,4 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 3.Handled nulls and blank values
 
 4.Dropped unused columns and rows
+-<a href="https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Data%20Cleaning.sql">Data Cleaning File
