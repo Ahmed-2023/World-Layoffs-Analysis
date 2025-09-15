@@ -22,3 +22,11 @@ This project analyzes global layoffs data using MySQL for data cleaning and expl
 
 -<a href='https://github.com/Ahmed-2023/World-Layoffs-Analysis/blob/main/Exploratory%20Data%20Analysis.sql'>Exploratory Data Analysis Code
 
+## Data Modeling (Power BI + DAX)
+
+1.Created a Calendar Date table using DAX
+
+2.Built several DAX measures such as:
+(Total Layoffs,Total Companies,Average Layoff Percentage,Total Funding)
+
+3.Established relationships between tables for accurate time-intelligence analysis
